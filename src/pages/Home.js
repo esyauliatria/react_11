@@ -2,7 +2,7 @@ import React from "react";
 function Home(){
     return(
         <div>
-            <h1>Selamat Datang di Workshop Pemrograman Framework</h1>
+            <h3>Selamat Datang di Workshop Pemrograman Framework</h3>
         </div>
     );
 };
